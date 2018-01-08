@@ -5,11 +5,6 @@
 	font-variant: normal;
 	font-weight: 500;
 	line-height: 26.4px;
-    /* padding-right: .9375rem; */
-    /* padding-left: .9375rem; */
-    margin-right: 50px !important;
-    margin-left: 50px !important;
-}
 }
 
 .search-bar {
@@ -24,10 +19,6 @@
     padding: 2px 6px;
     border-radius: 2px 0 0 2px;
 }
-
-/* .embed-responsive {
-  display: inline-block !important;
-} */
 
 .video-item {
   float: left !important;
@@ -45,10 +36,6 @@
   border: 1px solid #ddd;
   border-radius: 4px;
   display: inline-block !important;
-}
-
-.list-group {
-  float: right !important;
 }
 
 .list-group-item {
